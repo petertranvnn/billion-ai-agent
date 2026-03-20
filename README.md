@@ -40,7 +40,7 @@ npx clawhub@latest install verified-agent-identity
 ```
 node scripts/createNewEthereumIdentity.js
 ```
-8. Tạo billion veryfi link
+8. Tạo billion verify link
 ```
 node scripts/manualLinkHumanToAgent.js --challenge '{"name":"TênAgen","description":"mô tả"}'
 ```
